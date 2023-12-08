@@ -72,4 +72,4 @@ class day_02:
 if __name__ == "__main__":
     day_02 = day_02()
     print(f"The answer to part one is: {day_02.part1()}")
-    print(f"The answer to part one is: {day_02.part2()}")
+    print(f"The answer to part two is: {day_02.part2()}")
